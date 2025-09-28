@@ -3,7 +3,7 @@
 CULINA is a visually appealing recipe discovery web app powered by the TheMealDB API.
 Where users can search for meals, get random recipes, view details, and manage their profiles in a smooth, animated UI.
 
-✨ Features
+✨ Features :- 
 
 🔍 Search Recipes by name.
 
@@ -59,6 +59,7 @@ Database: MongoDB / Firebase (for user data).
 📄 License:
 
 MIT License © 2025 Shubham Kumar Mishra 
+
 
 
 
