@@ -46,17 +46,6 @@ PROFILE PAGE:
 
 🔗 API:  CULINA uses TheMealDB API to fetch recipes.
 
-
-💡 Future Improvements:
-
-1)Add Favorites functionality for logged-in users.
-
-2)Implement Meal Categories & Filters.
-
-3)Integrate Nutrition Facts for each recipe.
-
-4)Enable Recipe Sharing via social media.
-
 🛠️ Tech Stack:
 
 Frontend: HTML, CSS, JavaScript, React (optional if using React).
@@ -69,7 +58,8 @@ Database: MongoDB / Firebase (for user data).
 
 📄 License:
 
-MIT License © 2025 Swapnil Singh
+MIT License © 2025 Shubham Kumar Mishra 
+
 
 
 
