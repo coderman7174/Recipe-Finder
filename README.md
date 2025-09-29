@@ -49,9 +49,9 @@ PROFILE PAGE:
 
 🛠️ Tech Stack:
 
-Frontend: HTML, CSS, JavaScript, React (optional if using React).
+Frontend: HTML, CSS, JavaScript, React.js (optional if using React.js).
 
-Backend: Node.js / Express (if handling authentication).
+Backend: Node.js / Express.js (if handling authentication).
 
 API: TheMealDB API
 
@@ -60,6 +60,7 @@ Database: MongoDB / Firebase (for user data).
 📄 License:
 
 MIT License © 2025 Shubham Kumar Mishra 
+
 
 
 
